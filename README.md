@@ -8,7 +8,7 @@ Experienced JavaScript developer with 1+ year in the industry. Proficient with R
 ## Personal Info
 **AGE:** 22
 
-**EMAIL**: rahulpanchaloff@hotmail.com## Contact
+**EMAIL**: rahulpanchaloff@hotmail.com
 
 **PHONE:** +91 6392758956
 
