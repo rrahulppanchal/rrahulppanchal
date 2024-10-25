@@ -1,9 +1,9 @@
 # 👨‍💻 Rahul Panchal
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahulpanchaloff@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-panchal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-website-url.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--6392758956-green?style=flat&logo=phone&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrahulppanchal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://rahulpanchal.vercel.app/)
+[![Phone](https://img.shields.io/badge/Phone-+91--6392758956-green?style=flat&logo=phone&logoColor=white)](#6392758956)
 
 ## 🚀 About Me
 Results-driven Full-Stack Developer with 2+ years of experience in designing and implementing scalable web applications. Proficient in modern JavaScript frameworks and backend technologies. Demonstrated ability to deliver high-impact solutions that drive business value.
